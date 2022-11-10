@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vinicius de Freitas Neri 🤖
 
-**Sobre mim**
+**Sobre mim:**
 
 - 🧑🏽‍💻 Desenvolvedor front-end, realizo projetos como freelancer.
 - 📚 Conhecimentos técnicos e práticos em *HMTL, CSS, JavaScript e Java*.
