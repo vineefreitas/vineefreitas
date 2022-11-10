@@ -18,7 +18,7 @@
   <a href="https://m.facebook.com/vinicius.freitas.509?eav=AfZj6nkIPyqCvK7hJxpvcCYiY3r9DTByQ_xe-O_5Kf1qHxwaNhZc-vxS-jFsDofEHeY&paipv=0" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vineefreitas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://pt.stackoverflow.com/users/294239/vinicius-de-freitas-neri" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-
+  
   ##
 </div>
 
