@@ -2,8 +2,8 @@
 
 **Sobre mim**
 
-- 🧑🏽‍💻 Atualmente sou desenvolvedor front-end e realizo projetos como freelancer.
-- 📚 Estou me aperfeiçoando nas linguagens *HMTL, CSS, JavaScript e Java*.
+- 🧑🏽‍💻 Sou um desenvolvedor front-end e realizo projetos como freelancer.
+- 📚 Tenho conhecimentos técnicos e praticos em *HMTL, CSS, JavaScript e Java*.
   <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
