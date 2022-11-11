@@ -1,4 +1,4 @@
-<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Vinicius de Freitas Neri 🤖</h1>
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Vinicius de Freitas Neri</h1>
 
 - 🧑🏽‍💻 Desenvolvedor front-end, realizo projetos como freelancer.
 - 📚 Conhecimentos técnicos e práticos em *HMTL, CSS, JavaScript e Java*.
