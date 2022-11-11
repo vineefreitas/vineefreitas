@@ -1,9 +1,13 @@
-<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Vinicius de Freitas Neri</h1>
+ <div align="center">
+  <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Vinicius de Freitas Neri</h1>
+  
+*<h4>"Constantemente em busca de conhecimento, pois é algo que nunca poderão me tirar. 💭"</h4>*
+  </div>
+  
+##
 
-- 🧑🏽‍💻 Desenvolvedor front-end, realizo projetos como freelancer.
-- 📚 Conhecimentos técnicos e práticos em *HMTL, CSS, JavaScript e Java*.
   <div style="display: inline_block">
-  <h4 align="left">Linguagens e Ferramentas:</h4>  
+  <h3 align="left">Linguagens e Ferramentas:</h3>  
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +18,7 @@
   
   ##
   
-  <h4 align="left">Conecte-se comigo:</h4>
+  <h3 align="left">Conecte-se comigo:</h3>
   
   <div align="center">
   
@@ -31,7 +35,7 @@
 
 <div align="center">
   
-  <h4> :gear: Estatísticas :gear:</h4>
+  <h3> :gear: Estatísticas :gear:</h3>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vineefreitas&label=Profile%20views&color=70a5fd&style=flat" alt="vineefreitas"/> </p>
   <a href="https://github.com/vineefreitas">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vineefreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
