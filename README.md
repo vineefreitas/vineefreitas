@@ -1,10 +1,9 @@
 ## Olá, eu sou o Vinicius de Freitas Neri 🤖
 
-**Sobre mim:**
-
 - 🧑🏽‍💻 Desenvolvedor front-end, realizo projetos como freelancer.
 - 📚 Conhecimentos técnicos e práticos em *HMTL, CSS, JavaScript e Java*.
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+  <h4 align="left">Linguagens e Ferramentas:</h4>  
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +12,9 @@
   
   ##
   
-  <div align="center">
+  <h4 align="left">Conecte-se comigo:</h4>
+  
+  <div align="left">
   
   <a href="https://www.linkedin.com/in/viniciusdfn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511983414213" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -28,14 +29,14 @@
   
 <div align="center">
   
+  <h4>Estatísticas GitHub</h4>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vineefreitas&label=Profile%20views&color=0e75b6&style=flat" alt="vineefreitas" /> </p>
   <a href="https://github.com/vineefreitas">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vineefreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineefreitas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vineefreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineefreitas&layout=compact&langs_count=7&theme=tokyonight"/>
     
 </div>
-
-##
-
+  
 <div align="center">
 
 ![Snake animation](https://github.com/vineefreitas/vineefreitas/blob/output/github-contribution-grid-snake.svg)
