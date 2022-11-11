@@ -1,4 +1,4 @@
-## Olá, eu sou o Vinicius de Freitas Neri 🤖
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Vinicius de Freitas Neri 🤖</h1>
 
 - 🧑🏽‍💻 Desenvolvedor front-end, realizo projetos como freelancer.
 - 📚 Conhecimentos técnicos e práticos em *HMTL, CSS, JavaScript e Java*.
@@ -28,14 +28,14 @@
   </div>
   
   ##
-  
+
 <div align="center">
   
-  <h4>Estatísticas GitHub</h4>
+  <h4> :gear: Estatísticas :gear:</h4>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vineefreitas&label=Profile%20views&color=70a5fd&style=flat" alt="vineefreitas"/> </p>
   <a href="https://github.com/vineefreitas">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vineefreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineefreitas&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vineefreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineefreitas&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
     
 </div>
   
