@@ -16,7 +16,7 @@
   
   <h4 align="left">Conecte-se comigo:</h4>
   
-  <div align="center">
+  <div align="left">
   
   <a href="https://www.linkedin.com/in/viniciusdfn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://m.facebook.com/vinicius.freitas.509?eav=AfZj6nkIPyqCvK7hJxpvcCYiY3r9DTByQ_xe-O_5Kf1qHxwaNhZc-vxS-jFsDofEHeY&paipv=0" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
