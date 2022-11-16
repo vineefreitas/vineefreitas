@@ -37,7 +37,7 @@
 <div align="center">
   
   <h3> :gear: Estatísticas :gear:</h3>
-  <p> <img src="https://komarev.com/ghpvc/?username=vineefreitas&label=Profile%20views&color=9932CC&style=flat" alt="vineefreitas"/> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=vineefreitas&label=Profile%20views&color=81007e&style=flat" alt="vineefreitas"/> </p>
   <a href="https://github.com/vineefreitas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vineefreitas&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineefreitas&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-br"/>
