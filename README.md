@@ -1,5 +1,5 @@
  <div align="center">
-  <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Vinicius de Freitas Neri</h1>
+  <h1>Olá <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px">, eu sou o Vinicius de Freitas Neri</h1>
   
 *<h4>"Constantemente em busca de conhecimento, pois é algo que nunca poderão me tirar. 💭"</h4>*
   </div>
