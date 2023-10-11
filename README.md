@@ -42,9 +42,3 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineefreitas&layout=compact&langs_count=7&theme=ocean_dark&locale=pt-br"/>
     
 </div>
-  
-<div align="center">
-
-![Snake animation](https://github.com/vineefreitas/vineefreitas/blob/output/github-contribution-grid-snake.svg)
-
-</div>
